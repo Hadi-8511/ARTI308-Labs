@@ -1,4 +1,4 @@
-# ARTI308
+# ARTI308 – Lab 1
 This repository is part of the **ARTI 308: Machine Learning** course.
 
 ---
