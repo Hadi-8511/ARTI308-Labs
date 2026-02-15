@@ -1,5 +1,5 @@
-# Lab 3: Exploratory Data Analysis (EDA)
-# ARTI308 – Lab 3
+# ARTI308 – Lab 3: Exploratory Data Analysis (EDA)
+
 
 
 ##  Dataset Description
