@@ -3,9 +3,7 @@
 
 
 ##  Dataset Description
-
 The dataset contains student-related information including:
-
 * Demographics (Age, Gender, Ethnicity)
 * Academic behavior (StudyTimeWeekly, Absences, Tutoring)
 * Activities (Sports, Music, Volunteering, Extracurricular)
