@@ -1,5 +1,5 @@
-# K-Nearest Neighbors (KNN) Assignment
-
+# ARTI308 – Lab 8: K-Nearest Neighbors (KNN)
+---
 ## Overview
 
 This project applies the **K-Nearest Neighbors (KNN)** algorithm to classify data from the provided dataset.
@@ -29,6 +29,3 @@ This project applies the **K-Nearest Neighbors (KNN)** algorithm to classify dat
 * matplotlib, seaborn
 * scikit-learn
 
-## Author
-
-Hadi
