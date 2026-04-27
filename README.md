@@ -22,12 +22,8 @@ This project applies Decision Tree and Random Forest models to predict loan repa
 
 ## Results
 
-| Model | Accuracy | Recall (Class 1) | Notes |
-|---|---|---|---|
-| Decision Tree | 73% | 23% | Better at detecting borrowers who did not fully pay |
-| Random Forest | 85% | 2% | Higher overall accuracy but misses most defaulters |
+| Model | Accuracy | Notes |
+|---|---|---|
+| Decision Tree | 73% | Better at detecting borrowers who did not fully pay |
+| Random Forest | 85% | Higher overall accuracy but misses most defaulters |
 
-> **Note:** Although the Random Forest achieves higher overall accuracy (85%),
-> this is misleading due to class imbalance in the dataset (~84% fully paid).
-> The Decision Tree has a significantly better recall for the minority class (defaulters),
-> making it more practical for risk detection in a financial context.
