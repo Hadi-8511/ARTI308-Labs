@@ -11,9 +11,6 @@ This project applies Decision Tree and Random Forest models to predict loan repa
 - Model training (Decision Tree & Random Forest)
 - Model evaluation
 ---
-## Results
-Models were successfully implemented and compared.
----
 ## Tools
 - Python
 - Pandas
