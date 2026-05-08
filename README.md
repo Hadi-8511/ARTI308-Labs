@@ -1,5 +1,6 @@
 # ARTI308 – Lab 10: Support Vector Machines (SVM)
- 
+
+ ---
 
 ## Overview
 This project focuses on implementing **Support Vector Machines (SVM)** to classify the famous Iris flower dataset. The workflow includes exploratory data analysis (EDA), model training, and performance optimization using grid search.
